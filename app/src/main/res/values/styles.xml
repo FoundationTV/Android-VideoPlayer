@@ -1,0 +1,24 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+
+
+	<style name="MediaButton">
+        <item name="android:background">@drawable/media_button_background</item>
+    </style>
+    <style name="Theme.CastVideosTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Set AppCompat’s color theming attrs -->
+        <item name="colorPrimary">#c2c2c2</item>
+        <item name="colorPrimaryDark">#c5c5c5</item>
+        <item name="colorAccent">#e2e2e2</item>
+        <item name="android:navigationBarColor">#ffffff</item>
+    </style>
+    <style name="AppBaseTheme" parent="@style/Theme.AppCompat">
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+    </style>
+</resources>

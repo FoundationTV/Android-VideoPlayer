@@ -1,0 +1,4 @@
+#Fri Sep 20 15:47:00 IST 2019
+base.0=/Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/build/intermediates/transforms/dexMerger/debug/9
+path.0=classes.dex
+renamed.0=classes.dex

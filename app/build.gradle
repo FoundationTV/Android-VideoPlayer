@@ -1,0 +1,48 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 29
+    buildToolsVersion "29.0.1"
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    defaultConfig {
+        applicationId "com.jtv.player"
+        minSdkVersion 25
+        targetSdkVersion 29
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+    dependencies {
+        implementation fileTree(dir: "libs", include: ["*.jar"])
+
+        implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+        implementation 'androidx.appcompat:appcompat:1.0.2'
+        implementation 'androidx.mediarouter:mediarouter:1.0.0'
+
+        implementation 'androidx.mediarouter:mediarouter:1.0.0'
+        implementation 'com.google.android.gms:play-services-cast:17.0.0'
+        implementation 'com.googlecode.android-query:android-query:0.25.9'
+        implementation 'com.google.android.gms:play-services-cast-framework:17.0.0'
+
+        implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlin_version"
+    }
+
+    task copyDownloadableDepsToLibs(type: Copy) {
+        from configurations.compile
+        into 'libs'
+    }
+
+    apply plugin: 'kotlin-android'
+
+
+}

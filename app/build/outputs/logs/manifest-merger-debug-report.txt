@@ -1,0 +1,270 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:2:1-51:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/c7057b240c622d959cdc56f942757d7f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-cast-framework:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/568ea3c2572caa25e2e12278e4996f09/AndroidManifest.xml:2:1-22:12
+MERGED from [com.google.android.gms:play-services-cast:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/9479985485984a4f4c8087e98c4b590e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.mediarouter:mediarouter:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/35fb3b2cba24aab028aa09e096c4ef0d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/08381de0aa04c8e71cc1dbe41571963f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/2650634beba68ec4294a99455f2709ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/0baa05fb464fba699797fe12daa36e85/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/5fff0eab5f728a49f15c2a54c24f87af/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/937771d195e14cf465d54e5b68c4290d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/dc62b34cb015eb4206efa6754a5f81f8/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/df6bf3a0368acb4731a317a2e07715ca/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/118da92848b9bd5ac88b0464c0b573c1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/daf006c7931ffb4208cc55488d8759c9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/65697d566c869b6e2d0158777fc25542/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.palette:palette:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/ffe6505393e72ae6b5972b145907fc87/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/f4e3bcab1ab50d64dbf338d29839744d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/71ae1c67b185ec69dfcf44ddbb7e4a17/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/dcaf244fde46c20f60e1e6dd296bc34c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/f99b1d0b4b834a72281b3a5e47a2e752/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/3ff0f9a232c7c6b4d52daa208189cff5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/59a801a2b8551270859ebb65146714a0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/fe9bac59039ef4ac3a68028d13c43169/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/efa96fcd98c6191031164c883dd4e1ed/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/fe13a3a61d3bf9b8899a0a28a0cee9c9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/76d4c15994034959d5359d47087bb771/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/a74562c69fd1777edaa37cc90e75bb51/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/83aae38831741e83a1f2e72cb320bfca/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/a4849e4daf2b62429bade3ce73cd5e91/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/bb727d849e7ac1cdbc847358e11da5ce/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/eb38cee69db39865467e5a46ce18a554/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/da84239f093c4b8ea661c6ce3676aa9e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/46f399e9bb2e964db6518edbdc60a59f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/be6d85615f3d1691db9cd2e1fc7e8e0e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/3dc3758782d2b65eaf6c5c85972839e0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/18fbf9df3ec1d8514461d648a12d812c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/fd2dbd3e9d84077a832332739b0ac859/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/114313e03fb5dac5855a0ee04e4e9517/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:3:5-29
+		INJECTED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:7:2-63
+	android:name
+		ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:7:19-61
+uses-permission#android.permission.GET_TASKS
+ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:8:2-64
+	android:name
+		ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:8:19-62
+application
+ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:9:5-40:19
+MERGED from [com.google.android.gms:play-services-cast-framework:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/568ea3c2572caa25e2e12278e4996f09/AndroidManifest.xml:9:5-20:19
+MERGED from [com.google.android.gms:play-services-cast-framework:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/568ea3c2572caa25e2e12278e4996f09/AndroidManifest.xml:9:5-20:19
+MERGED from [com.google.android.gms:play-services-cast:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/9479985485984a4f4c8087e98c4b590e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/9479985485984a4f4c8087e98c4b590e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/5fff0eab5f728a49f15c2a54c24f87af/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/5fff0eab5f728a49f15c2a54c24f87af/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/937771d195e14cf465d54e5b68c4290d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/937771d195e14cf465d54e5b68c4290d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/dc62b34cb015eb4206efa6754a5f81f8/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/dc62b34cb015eb4206efa6754a5f81f8/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.1] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/a74562c69fd1777edaa37cc90e75bb51/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/a74562c69fd1777edaa37cc90e75bb51/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/83aae38831741e83a1f2e72cb320bfca/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/83aae38831741e83a1f2e72cb320bfca/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/a74562c69fd1777edaa37cc90e75bb51/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:12:9-41
+	android:background
+		ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:13:9-50
+	android:icon
+		ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:11:9-45
+	android:allowBackup
+		ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:14:9-44
+	android:usesCleartextTraffic
+		ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:15:9-44
+meta-data#com.google.android.gms.version
+ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:17:9-19:65
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/dc62b34cb015eb4206efa6754a5f81f8/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/dc62b34cb015eb4206efa6754a5f81f8/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:19:9-62
+	android:name
+		ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:18:9-54
+activity#com.jtv.player.VideoPlayerScreen
+ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:20:3-30:14
+	android:screenOrientation
+		ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:23:4-41
+	android:label
+		ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:22:4-36
+	android:theme
+		ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:24:4-57
+	android:name
+		ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:21:4-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:25:4-29:20
+action#android.intent.action.MAIN
+ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:26:5-57
+	android:name
+		ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:26:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:28:5-65
+	android:name
+		ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:28:15-62
+activity#com.jtv.player.MainSplashScreen
+ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:31:3-38:14
+	android:screenOrientation
+		ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:35:4-41
+	android:label
+		ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:33:4-36
+	android:launchMode
+		ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:34:4-39
+	android:configChanges
+		ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:36:4-65
+	android:theme
+		ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:37:4-57
+	android:name
+		ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:32:4-50
+supports-screens
+ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:41:2-46:21
+	android:largeScreens
+		ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:44:15-42
+	android:smallScreens
+		ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:42:15-43
+	android:normalScreens
+		ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:43:15-43
+	android:xlargeScreens
+		ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:45:15-43
+	android:resizeable
+		ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml:41:20-46
+uses-sdk
+INJECTED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/c7057b240c622d959cdc56f942757d7f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/c7057b240c622d959cdc56f942757d7f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/568ea3c2572caa25e2e12278e4996f09/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/568ea3c2572caa25e2e12278e4996f09/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/9479985485984a4f4c8087e98c4b590e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/9479985485984a4f4c8087e98c4b590e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.mediarouter:mediarouter:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/35fb3b2cba24aab028aa09e096c4ef0d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.mediarouter:mediarouter:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/35fb3b2cba24aab028aa09e096c4ef0d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/08381de0aa04c8e71cc1dbe41571963f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/08381de0aa04c8e71cc1dbe41571963f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/2650634beba68ec4294a99455f2709ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/2650634beba68ec4294a99455f2709ac/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/0baa05fb464fba699797fe12daa36e85/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/0baa05fb464fba699797fe12daa36e85/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/5fff0eab5f728a49f15c2a54c24f87af/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/5fff0eab5f728a49f15c2a54c24f87af/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/937771d195e14cf465d54e5b68c4290d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/937771d195e14cf465d54e5b68c4290d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/dc62b34cb015eb4206efa6754a5f81f8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/dc62b34cb015eb4206efa6754a5f81f8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/df6bf3a0368acb4731a317a2e07715ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/df6bf3a0368acb4731a317a2e07715ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/118da92848b9bd5ac88b0464c0b573c1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/118da92848b9bd5ac88b0464c0b573c1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/daf006c7931ffb4208cc55488d8759c9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/daf006c7931ffb4208cc55488d8759c9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/65697d566c869b6e2d0158777fc25542/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/65697d566c869b6e2d0158777fc25542/AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/ffe6505393e72ae6b5972b145907fc87/AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/ffe6505393e72ae6b5972b145907fc87/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/f4e3bcab1ab50d64dbf338d29839744d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/f4e3bcab1ab50d64dbf338d29839744d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/71ae1c67b185ec69dfcf44ddbb7e4a17/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/71ae1c67b185ec69dfcf44ddbb7e4a17/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/dcaf244fde46c20f60e1e6dd296bc34c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/dcaf244fde46c20f60e1e6dd296bc34c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/f99b1d0b4b834a72281b3a5e47a2e752/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/f99b1d0b4b834a72281b3a5e47a2e752/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/3ff0f9a232c7c6b4d52daa208189cff5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/3ff0f9a232c7c6b4d52daa208189cff5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/59a801a2b8551270859ebb65146714a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/59a801a2b8551270859ebb65146714a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/fe9bac59039ef4ac3a68028d13c43169/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/fe9bac59039ef4ac3a68028d13c43169/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/efa96fcd98c6191031164c883dd4e1ed/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/efa96fcd98c6191031164c883dd4e1ed/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/fe13a3a61d3bf9b8899a0a28a0cee9c9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/fe13a3a61d3bf9b8899a0a28a0cee9c9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/76d4c15994034959d5359d47087bb771/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/76d4c15994034959d5359d47087bb771/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/a74562c69fd1777edaa37cc90e75bb51/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/a74562c69fd1777edaa37cc90e75bb51/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/83aae38831741e83a1f2e72cb320bfca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/83aae38831741e83a1f2e72cb320bfca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/a4849e4daf2b62429bade3ce73cd5e91/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/a4849e4daf2b62429bade3ce73cd5e91/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/bb727d849e7ac1cdbc847358e11da5ce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/bb727d849e7ac1cdbc847358e11da5ce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/eb38cee69db39865467e5a46ce18a554/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/eb38cee69db39865467e5a46ce18a554/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/da84239f093c4b8ea661c6ce3676aa9e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/da84239f093c4b8ea661c6ce3676aa9e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/46f399e9bb2e964db6518edbdc60a59f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/46f399e9bb2e964db6518edbdc60a59f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/be6d85615f3d1691db9cd2e1fc7e8e0e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/be6d85615f3d1691db9cd2e1fc7e8e0e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/3dc3758782d2b65eaf6c5c85972839e0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/3dc3758782d2b65eaf6c5c85972839e0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/18fbf9df3ec1d8514461d648a12d812c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/18fbf9df3ec1d8514461d648a12d812c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/fd2dbd3e9d84077a832332739b0ac859/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/fd2dbd3e9d84077a832332739b0ac859/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/114313e03fb5dac5855a0ee04e4e9517/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/114313e03fb5dac5855a0ee04e4e9517/AndroidManifest.xml:20:5-44
+INJECTED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tivintismedia/AndroidAll/player/Android-VideoPlayer/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [com.google.android.gms:play-services-cast-framework:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/568ea3c2572caa25e2e12278e4996f09/AndroidManifest.xml:7:5-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/568ea3c2572caa25e2e12278e4996f09/AndroidManifest.xml:7:22-74
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/568ea3c2572caa25e2e12278e4996f09/AndroidManifest.xml:10:9-12:40
+	android:exported
+		ADDED from [com.google.android.gms:play-services-cast-framework:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/568ea3c2572caa25e2e12278e4996f09/AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/568ea3c2572caa25e2e12278e4996f09/AndroidManifest.xml:11:13-91
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/568ea3c2572caa25e2e12278e4996f09/AndroidManifest.xml:14:9-16:40
+	android:exported
+		ADDED from [com.google.android.gms:play-services-cast-framework:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/568ea3c2572caa25e2e12278e4996f09/AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/568ea3c2572caa25e2e12278e4996f09/AndroidManifest.xml:15:13-96
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/568ea3c2572caa25e2e12278e4996f09/AndroidManifest.xml:17:9-19:40
+	android:exported
+		ADDED from [com.google.android.gms:play-services-cast-framework:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/568ea3c2572caa25e2e12278e4996f09/AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/568ea3c2572caa25e2e12278e4996f09/AndroidManifest.xml:18:13-85
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/5fff0eab5f728a49f15c2a54c24f87af/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/5fff0eab5f728a49f15c2a54c24f87af/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/5fff0eab5f728a49f15c2a54c24f87af/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/tivintismedia/.gradle/caches/transforms-2/files-2.1/5fff0eab5f728a49f15c2a54c24f87af/AndroidManifest.xml:24:13-79
